@@ -7,7 +7,7 @@ export const problems = [
   },
   {
     title: "Problema 2",
-    statement: "Encuentra todas las soluciones enteras de la ecuación x² + y² = 2025."
+    statement: "Demuestra que la raíz cuadrada de 2 es irracional."
   },
   {
     title: "Problema 3",
@@ -15,10 +15,6 @@ export const problems = [
   },
   {
     title: "Problema 4",
-    statement: "Determina si existe un triángulo con lados 3, 4 y 8."
+    statement: "Encuentra todas las soluciones enteras de la ecuación x² + y² = 2025."
   },
-  {
-    title: "Problema 5",
-    statement: "Demuestra que la raíz cuadrada de 2 es irracional."
-  }
 ];
